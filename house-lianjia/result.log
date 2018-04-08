@@ -1,0 +1,122 @@
+Sun, 08 Apr 2018 13:56:26 - crawler.py[line:13] - INFO - ===============开始本次爬取作业，本次VERSION为【1】=============
+Sun, 08 Apr 2018 13:56:26 - rentHouse_multi.py[line:30] - INFO - Get Rent House Infomation in 西湖
+Sun, 08 Apr 2018 13:56:26 - rentHouse_multi.py[line:30] - INFO - Get Rent House Infomation in 下城
+Sun, 08 Apr 2018 13:56:26 - rentHouse_multi.py[line:30] - INFO - Get Rent House Infomation in 江干
+Sun, 08 Apr 2018 13:56:26 - rentHouse_multi.py[line:30] - INFO - Get Rent House Infomation in 拱墅
+Sun, 08 Apr 2018 13:56:27 - rentHouse_multi.py[line:30] - INFO - Get Rent House Infomation in 上城
+Sun, 08 Apr 2018 13:56:27 - rentHouse_multi.py[line:30] - INFO - Get Rent House Infomation in 滨江
+Sun, 08 Apr 2018 13:56:27 - rentHouse_multi.py[line:30] - INFO - Get Rent House Infomation in 余杭
+Sun, 08 Apr 2018 13:56:27 - rentHouse_multi.py[line:30] - INFO - Get Rent House Infomation in 萧山
+Sun, 08 Apr 2018 13:56:27 - rentHouse_multi.py[line:30] - INFO - Get Rent House Infomation in 下沙
+Sun, 08 Apr 2018 13:56:41 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-0]GetRentByRegionlist district:/zufang/gongshu/ page:1 totalpage:12
+Sun, 08 Apr 2018 13:56:41 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-0]GetRentByRegionlist district:/zufang/yuhang/ page:1 totalpage:25
+Sun, 08 Apr 2018 13:56:42 - rentHouse_multi.py[line:70] - INFO - [thread-下城-0]GetRentByRegionlist district:/zufang/xiacheng/ page:1 totalpage:12
+Sun, 08 Apr 2018 13:56:43 - rentHouse_multi.py[line:70] - INFO - [thread-上城-9]GetRentByRegionlist district:/zufang/shangcheng/ page:1 totalpage:8
+Sun, 08 Apr 2018 13:56:43 - rentHouse_multi.py[line:70] - INFO - [thread-萧山-9]GetRentByRegionlist district:/zufang/xiaoshan/ page:1 totalpage:8
+Sun, 08 Apr 2018 13:56:44 - rentHouse_multi.py[line:70] - INFO - [thread-下沙-9]GetRentByRegionlist district:/zufang/xiasha/ page:1 totalpage:7
+Sun, 08 Apr 2018 13:56:44 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-0]GetRentByRegionlist district:/zufang/xihu/ page:1 totalpage:17
+Sun, 08 Apr 2018 13:56:44 - rentHouse_multi.py[line:70] - INFO - [thread-江干-0]GetRentByRegionlist district:/zufang/jianggan/ page:1 totalpage:13
+Sun, 08 Apr 2018 13:56:44 - rentHouse_multi.py[line:70] - INFO - [thread-滨江-9]GetRentByRegionlist district:/zufang/binjiang/ page:1 totalpage:9
+Sun, 08 Apr 2018 13:56:48 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-1]GetRentByRegionlist district:/zufang/gongshu/ page:2 totalpage:12
+Sun, 08 Apr 2018 13:56:49 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-8]GetRentByRegionlist district:/zufang/gongshu/ page:9 totalpage:12
+Sun, 08 Apr 2018 13:56:50 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-2]GetRentByRegionlist district:/zufang/gongshu/ page:3 totalpage:12
+Sun, 08 Apr 2018 13:56:50 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-4]GetRentByRegionlist district:/zufang/gongshu/ page:5 totalpage:12
+Sun, 08 Apr 2018 13:56:50 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-4]GetRentByRegionlist district:/zufang/yuhang/ page:9 totalpage:25
+Sun, 08 Apr 2018 13:56:50 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-5]GetRentByRegionlist district:/zufang/xihu/ page:6 totalpage:17
+Sun, 08 Apr 2018 13:56:50 - rentHouse_multi.py[line:70] - INFO - [thread-下城-6]GetRentByRegionlist district:/zufang/xiacheng/ page:7 totalpage:12
+Sun, 08 Apr 2018 13:56:50 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-6]GetRentByRegionlist district:/zufang/gongshu/ page:7 totalpage:12
+Sun, 08 Apr 2018 13:56:51 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-2]GetRentByRegionlist district:/zufang/yuhang/ page:5 totalpage:25
+Sun, 08 Apr 2018 13:56:51 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-5]GetRentByRegionlist district:/zufang/gongshu/ page:6 totalpage:12
+Sun, 08 Apr 2018 13:56:51 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-6]GetRentByRegionlist district:/zufang/xihu/ page:7 totalpage:17
+Sun, 08 Apr 2018 13:56:51 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-3]GetRentByRegionlist district:/zufang/gongshu/ page:4 totalpage:12
+Sun, 08 Apr 2018 13:56:51 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-8]GetRentByRegionlist district:/zufang/xihu/ page:9 totalpage:17
+Sun, 08 Apr 2018 13:56:52 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-1]GetRentByRegionlist district:/zufang/yuhang/ page:3 totalpage:25
+Sun, 08 Apr 2018 13:56:52 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-3]GetRentByRegionlist district:/zufang/yuhang/ page:7 totalpage:25
+Sun, 08 Apr 2018 13:56:52 - rentHouse_multi.py[line:70] - INFO - [thread-江干-4]GetRentByRegionlist district:/zufang/jianggan/ page:5 totalpage:13
+Sun, 08 Apr 2018 13:56:52 - rentHouse_multi.py[line:70] - INFO - [thread-下城-5]GetRentByRegionlist district:/zufang/xiacheng/ page:6 totalpage:12
+Sun, 08 Apr 2018 13:56:52 - rentHouse_multi.py[line:70] - INFO - [thread-下城-2]GetRentByRegionlist district:/zufang/xiacheng/ page:3 totalpage:12
+Sun, 08 Apr 2018 13:56:52 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-7]GetRentByRegionlist district:/zufang/gongshu/ page:8 totalpage:12
+Sun, 08 Apr 2018 13:56:52 - rentHouse_multi.py[line:70] - INFO - [thread-下城-4]GetRentByRegionlist district:/zufang/xiacheng/ page:5 totalpage:12
+Sun, 08 Apr 2018 13:56:52 - rentHouse_multi.py[line:70] - INFO - [thread-下城-9]GetRentByRegionlist district:/zufang/xiacheng/ page:10 totalpage:12
+Sun, 08 Apr 2018 13:56:53 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-7]GetRentByRegionlist district:/zufang/yuhang/ page:15 totalpage:25
+Sun, 08 Apr 2018 13:56:53 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-9]GetRentByRegionlist district:/zufang/gongshu/ page:10 totalpage:12
+Sun, 08 Apr 2018 13:56:53 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-5]GetRentByRegionlist district:/zufang/yuhang/ page:11 totalpage:25
+Sun, 08 Apr 2018 13:56:53 - rentHouse_multi.py[line:70] - INFO - [thread-江干-2]GetRentByRegionlist district:/zufang/jianggan/ page:3 totalpage:13
+Sun, 08 Apr 2018 13:56:54 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-7]GetRentByRegionlist district:/zufang/xihu/ page:8 totalpage:17
+Sun, 08 Apr 2018 13:56:54 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-6]GetRentByRegionlist district:/zufang/yuhang/ page:13 totalpage:25
+Sun, 08 Apr 2018 13:56:54 - rentHouse_multi.py[line:70] - INFO - [thread-下城-3]GetRentByRegionlist district:/zufang/xiacheng/ page:4 totalpage:12
+Sun, 08 Apr 2018 13:56:54 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-9]GetRentByRegionlist district:/zufang/yuhang/ page:19 totalpage:25
+Sun, 08 Apr 2018 13:56:54 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-8]GetRentByRegionlist district:/zufang/yuhang/ page:17 totalpage:25
+Sun, 08 Apr 2018 13:56:54 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-3]GetRentByRegionlist district:/zufang/xihu/ page:4 totalpage:17
+Sun, 08 Apr 2018 13:56:54 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-0]GetRentByRegionlist district:/zufang/yuhang/ page:2 totalpage:25
+Sun, 08 Apr 2018 13:56:55 - rentHouse_multi.py[line:70] - INFO - [thread-江干-3]GetRentByRegionlist district:/zufang/jianggan/ page:4 totalpage:13
+Sun, 08 Apr 2018 13:56:55 - rentHouse_multi.py[line:70] - INFO - [thread-下城-8]GetRentByRegionlist district:/zufang/xiacheng/ page:9 totalpage:12
+Sun, 08 Apr 2018 13:56:55 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-4]GetRentByRegionlist district:/zufang/xihu/ page:5 totalpage:17
+Sun, 08 Apr 2018 13:56:55 - rentHouse_multi.py[line:70] - INFO - [thread-江干-5]GetRentByRegionlist district:/zufang/jianggan/ page:6 totalpage:13
+Sun, 08 Apr 2018 13:56:55 - rentHouse_multi.py[line:70] - INFO - [thread-江干-1]GetRentByRegionlist district:/zufang/jianggan/ page:2 totalpage:13
+Sun, 08 Apr 2018 13:56:56 - rentHouse_multi.py[line:70] - INFO - [thread-下城-7]GetRentByRegionlist district:/zufang/xiacheng/ page:8 totalpage:12
+Sun, 08 Apr 2018 13:56:56 - rentHouse_multi.py[line:70] - INFO - [thread-上城-9]GetRentByRegionlist district:/zufang/shangcheng/ page:2 totalpage:8
+Sun, 08 Apr 2018 13:56:56 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-2]GetRentByRegionlist district:/zufang/xihu/ page:3 totalpage:17
+Sun, 08 Apr 2018 13:56:56 - rentHouse_multi.py[line:70] - INFO - [thread-江干-8]GetRentByRegionlist district:/zufang/jianggan/ page:9 totalpage:13
+Sun, 08 Apr 2018 13:56:56 - rentHouse_multi.py[line:70] - INFO - [thread-萧山-9]GetRentByRegionlist district:/zufang/xiaoshan/ page:2 totalpage:8
+Sun, 08 Apr 2018 13:56:57 - rentHouse_multi.py[line:70] - INFO - [thread-下城-1]GetRentByRegionlist district:/zufang/xiacheng/ page:2 totalpage:12
+Sun, 08 Apr 2018 13:56:57 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-9]GetRentByRegionlist district:/zufang/xihu/ page:10 totalpage:17
+Sun, 08 Apr 2018 13:56:57 - rentHouse_multi.py[line:70] - INFO - [thread-江干-6]GetRentByRegionlist district:/zufang/jianggan/ page:7 totalpage:13
+Sun, 08 Apr 2018 13:56:58 - rentHouse_multi.py[line:70] - INFO - [thread-江干-9]GetRentByRegionlist district:/zufang/jianggan/ page:10 totalpage:13
+Sun, 08 Apr 2018 13:56:58 - rentHouse_multi.py[line:70] - INFO - [thread-江干-7]GetRentByRegionlist district:/zufang/jianggan/ page:8 totalpage:13
+Sun, 08 Apr 2018 13:56:58 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-1]GetRentByRegionlist district:/zufang/xihu/ page:2 totalpage:17
+Sun, 08 Apr 2018 13:56:58 - rentHouse_multi.py[line:70] - INFO - [thread-下沙-9]GetRentByRegionlist district:/zufang/xiasha/ page:2 totalpage:7
+Sun, 08 Apr 2018 13:56:58 - rentHouse_multi.py[line:70] - INFO - [thread-滨江-9]GetRentByRegionlist district:/zufang/binjiang/ page:2 totalpage:9
+Sun, 08 Apr 2018 13:56:59 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-4]GetRentByRegionlist district:/zufang/yuhang/ page:10 totalpage:25
+Sun, 08 Apr 2018 13:57:00 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-2]GetRentByRegionlist district:/zufang/yuhang/ page:6 totalpage:25
+Sun, 08 Apr 2018 13:57:00 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-3]GetRentByRegionlist district:/zufang/yuhang/ page:8 totalpage:25
+Sun, 08 Apr 2018 13:57:00 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-1]GetRentByRegionlist district:/zufang/yuhang/ page:4 totalpage:25
+Sun, 08 Apr 2018 13:57:00 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-9]GetRentByRegionlist district:/zufang/gongshu/ page:11 totalpage:12
+Sun, 08 Apr 2018 13:57:00 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-7]GetRentByRegionlist district:/zufang/yuhang/ page:16 totalpage:25
+Sun, 08 Apr 2018 13:57:01 - rentHouse_multi.py[line:70] - INFO - [thread-下城-9]GetRentByRegionlist district:/zufang/xiacheng/ page:11 totalpage:12
+Sun, 08 Apr 2018 13:57:01 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-5]GetRentByRegionlist district:/zufang/yuhang/ page:12 totalpage:25
+Sun, 08 Apr 2018 13:57:01 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-8]GetRentByRegionlist district:/zufang/yuhang/ page:18 totalpage:25
+Sun, 08 Apr 2018 13:57:01 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-6]GetRentByRegionlist district:/zufang/yuhang/ page:14 totalpage:25
+Sun, 08 Apr 2018 13:57:01 - rentHouse_multi.py[line:70] - INFO - [thread-上城-9]GetRentByRegionlist district:/zufang/shangcheng/ page:3 totalpage:8
+Sun, 08 Apr 2018 13:57:01 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-9]GetRentByRegionlist district:/zufang/yuhang/ page:20 totalpage:25
+Sun, 08 Apr 2018 13:57:02 - rentHouse_multi.py[line:70] - INFO - [thread-萧山-9]GetRentByRegionlist district:/zufang/xiaoshan/ page:3 totalpage:8
+Sun, 08 Apr 2018 13:57:02 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-9]GetRentByRegionlist district:/zufang/xihu/ page:11 totalpage:17
+Sun, 08 Apr 2018 13:57:02 - rentHouse_multi.py[line:70] - INFO - [thread-滨江-9]GetRentByRegionlist district:/zufang/binjiang/ page:3 totalpage:9
+Sun, 08 Apr 2018 13:57:02 - rentHouse_multi.py[line:70] - INFO - [thread-江干-9]GetRentByRegionlist district:/zufang/jianggan/ page:11 totalpage:13
+Sun, 08 Apr 2018 13:57:02 - rentHouse_multi.py[line:70] - INFO - [thread-下沙-9]GetRentByRegionlist district:/zufang/xiasha/ page:3 totalpage:7
+Sun, 08 Apr 2018 13:57:03 - rentHouse_multi.py[line:70] - INFO - [thread-拱墅-9]GetRentByRegionlist district:/zufang/gongshu/ page:12 totalpage:12
+Sun, 08 Apr 2018 13:57:03 - rentHouse_multi.py[line:70] - INFO - [thread-下城-9]GetRentByRegionlist district:/zufang/xiacheng/ page:12 totalpage:12
+Sun, 08 Apr 2018 13:57:04 - rentHouse_multi.py[line:70] - INFO - [thread-上城-9]GetRentByRegionlist district:/zufang/shangcheng/ page:4 totalpage:8
+Sun, 08 Apr 2018 13:57:04 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-9]GetRentByRegionlist district:/zufang/yuhang/ page:21 totalpage:25
+Sun, 08 Apr 2018 13:57:04 - rentHouse_multi.py[line:70] - INFO - [thread-萧山-9]GetRentByRegionlist district:/zufang/xiaoshan/ page:4 totalpage:8
+Sun, 08 Apr 2018 13:57:05 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-9]GetRentByRegionlist district:/zufang/xihu/ page:12 totalpage:17
+Sun, 08 Apr 2018 13:57:05 - rentHouse_multi.py[line:70] - INFO - [thread-滨江-9]GetRentByRegionlist district:/zufang/binjiang/ page:4 totalpage:9
+Sun, 08 Apr 2018 13:57:05 - rentHouse_multi.py[line:70] - INFO - [thread-下沙-9]GetRentByRegionlist district:/zufang/xiasha/ page:4 totalpage:7
+Sun, 08 Apr 2018 13:57:05 - rentHouse_multi.py[line:70] - INFO - [thread-江干-9]GetRentByRegionlist district:/zufang/jianggan/ page:12 totalpage:13
+Sun, 08 Apr 2018 13:57:06 - rentHouse_multi.py[line:70] - INFO - [thread-上城-9]GetRentByRegionlist district:/zufang/shangcheng/ page:5 totalpage:8
+Sun, 08 Apr 2018 13:57:06 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-9]GetRentByRegionlist district:/zufang/yuhang/ page:22 totalpage:25
+Sun, 08 Apr 2018 13:57:07 - rentHouse_multi.py[line:70] - INFO - [thread-萧山-9]GetRentByRegionlist district:/zufang/xiaoshan/ page:5 totalpage:8
+Sun, 08 Apr 2018 13:57:07 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-9]GetRentByRegionlist district:/zufang/xihu/ page:13 totalpage:17
+Sun, 08 Apr 2018 13:57:07 - rentHouse_multi.py[line:70] - INFO - [thread-江干-9]GetRentByRegionlist district:/zufang/jianggan/ page:13 totalpage:13
+Sun, 08 Apr 2018 13:57:07 - rentHouse_multi.py[line:70] - INFO - [thread-滨江-9]GetRentByRegionlist district:/zufang/binjiang/ page:5 totalpage:9
+Sun, 08 Apr 2018 13:57:08 - rentHouse_multi.py[line:70] - INFO - [thread-下沙-9]GetRentByRegionlist district:/zufang/xiasha/ page:5 totalpage:7
+Sun, 08 Apr 2018 13:57:09 - rentHouse_multi.py[line:70] - INFO - [thread-上城-9]GetRentByRegionlist district:/zufang/shangcheng/ page:6 totalpage:8
+Sun, 08 Apr 2018 13:57:09 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-9]GetRentByRegionlist district:/zufang/yuhang/ page:23 totalpage:25
+Sun, 08 Apr 2018 13:57:09 - rentHouse_multi.py[line:70] - INFO - [thread-萧山-9]GetRentByRegionlist district:/zufang/xiaoshan/ page:6 totalpage:8
+Sun, 08 Apr 2018 13:57:09 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-9]GetRentByRegionlist district:/zufang/xihu/ page:14 totalpage:17
+Sun, 08 Apr 2018 13:57:10 - rentHouse_multi.py[line:70] - INFO - [thread-滨江-9]GetRentByRegionlist district:/zufang/binjiang/ page:6 totalpage:9
+Sun, 08 Apr 2018 13:57:10 - rentHouse_multi.py[line:70] - INFO - [thread-下沙-9]GetRentByRegionlist district:/zufang/xiasha/ page:6 totalpage:7
+Sun, 08 Apr 2018 13:57:11 - rentHouse_multi.py[line:70] - INFO - [thread-上城-9]GetRentByRegionlist district:/zufang/shangcheng/ page:7 totalpage:8
+Sun, 08 Apr 2018 13:57:11 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-9]GetRentByRegionlist district:/zufang/yuhang/ page:24 totalpage:25
+Sun, 08 Apr 2018 13:57:11 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-9]GetRentByRegionlist district:/zufang/xihu/ page:15 totalpage:17
+Sun, 08 Apr 2018 13:57:12 - rentHouse_multi.py[line:70] - INFO - [thread-萧山-9]GetRentByRegionlist district:/zufang/xiaoshan/ page:7 totalpage:8
+Sun, 08 Apr 2018 13:57:12 - rentHouse_multi.py[line:70] - INFO - [thread-滨江-9]GetRentByRegionlist district:/zufang/binjiang/ page:7 totalpage:9
+Sun, 08 Apr 2018 13:57:12 - rentHouse_multi.py[line:70] - INFO - [thread-下沙-9]GetRentByRegionlist district:/zufang/xiasha/ page:7 totalpage:7
+Sun, 08 Apr 2018 13:57:13 - rentHouse_multi.py[line:70] - INFO - [thread-上城-9]GetRentByRegionlist district:/zufang/shangcheng/ page:8 totalpage:8
+Sun, 08 Apr 2018 13:57:13 - rentHouse_multi.py[line:70] - INFO - [thread-余杭-9]GetRentByRegionlist district:/zufang/yuhang/ page:25 totalpage:25
+Sun, 08 Apr 2018 13:57:13 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-9]GetRentByRegionlist district:/zufang/xihu/ page:16 totalpage:17
+Sun, 08 Apr 2018 13:57:14 - rentHouse_multi.py[line:70] - INFO - [thread-萧山-9]GetRentByRegionlist district:/zufang/xiaoshan/ page:8 totalpage:8
+Sun, 08 Apr 2018 13:57:14 - rentHouse_multi.py[line:70] - INFO - [thread-滨江-9]GetRentByRegionlist district:/zufang/binjiang/ page:8 totalpage:9
+Sun, 08 Apr 2018 13:57:15 - rentHouse_multi.py[line:70] - INFO - [thread-西湖-9]GetRentByRegionlist district:/zufang/xihu/ page:17 totalpage:17
+Sun, 08 Apr 2018 13:57:16 - rentHouse_multi.py[line:70] - INFO - [thread-滨江-9]GetRentByRegionlist district:/zufang/binjiang/ page:9 totalpage:9
+Sun, 08 Apr 2018 13:57:17 - rentHouse_multi.py[line:43] - INFO - Run time: 0:00:51.397174
